@@ -1,0 +1,41 @@
+body{
+    font-family: Arial;
+    background-color: #18A383;
+    box-sizing: border-box;
+    background-image: url('gira2.jpg');
+}
+form{
+    background-color: rgb(255, 251, 139);
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+    color:rgb(0, 0, 0);
+    border-radius:  3px;
+    font-size: 18px;
+}
+input, textarea{
+outline: none ;
+border: 0;
+width: 280px;
+}
+.field{
+ border: solid 1px rgb(0, 0, 0);
+ padding: 10px;   
+}
+.field:focus{
+ border-color: #edf049;
+}
+.center-content{
+    text-align: center;
+}
+h1{
+    font-family: Century;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color:  rgb(255, 255, 43);
+}
+h3{
+    font-family: Century;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
